@@ -1,0 +1,17 @@
+# Browser login state (cookies, tokens)
+.browser_profile/
+.browser_profile_*/
+
+# Local config and secrets
+courses.json
+.env
+course_notes.txt
+
+# Run output (reports, screenshots, extracted questions)
+output/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
